@@ -66,6 +66,10 @@ display: block;
 p{
     border: 3px dotted darkblue;
 }
+footer{
+    text-align: center ;
+    margin: 15px 0;
+}
 .home-1{
     width: 560px;
     animation:crab 1s linear 1s forwards;
